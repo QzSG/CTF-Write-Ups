@@ -10,3 +10,5 @@ We have format string vulnerability
 ![](https://i.imgur.com/gR1c0LU.png)
 
 Flag : ```X-MAS{C_15n7_th3_0nly_vuln3rabl3_l4nngu4g3_t0_f0rm47_57r1ng5}```
+
+Extras: https://realpython.com/python-string-formatting/
